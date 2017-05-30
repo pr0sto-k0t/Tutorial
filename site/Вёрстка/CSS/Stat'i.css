@@ -1,0 +1,13 @@
+body{background-image:url("../../Данные/bg.jpg")}
+#wrapper{width:960px; height:1000px; border:solid 5px; }
+#header{width:960px; height:150px; border: solid 1px; background-image:url("../../Данные/fon.jpg")}
+
+.name{ font-family:Bernard MT Condensed; font-size:60px; color:#ffff33; position:absolute; left:64px; top:40px;}
+.opis{font-family:Myriad Pro Regular; font-size:24px; color:#fffefe;position:absolute; left:281px; top:22px}
+.nav{width:706px;height:36px; border:solid 1px; position:absolute; left:265px; top:123px;}
+#header .nav a{text-decoration:none;margin-left:30px; color:white; padding-bottom:14px;font-size:20px;}
+#header .nav a:link {color:white;}	
+.nav a:hover, .nav .punkt{background:red;}
+.nav a:hover{background:orange}
+#content{width:960px; height:846px;border:solid 1px;background-color:;}
+#content a:link,a:visited{color:black;text-decoration:none;}
